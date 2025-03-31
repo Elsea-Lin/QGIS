@@ -47,6 +47,7 @@
         "arrow-adbc",
         "freexl",
         "kea",
+        "parquet",
         "poppler",
         "tools"
       ]
